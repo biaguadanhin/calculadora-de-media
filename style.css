@@ -1,0 +1,31 @@
+body{
+    display: 
+}
+
+
+
+
+
+
+
+.caixa{
+    height: 40px;
+    width: 120px;
+    background-color: #470b33;
+}
+
+.container {
+display: flex;
+border: 1px solid #000;
+width: 320px;
+height: 500px;
+flex-direction: column;
+background-color: #b653ae;
+
+
+
+
+}
+
+
+
