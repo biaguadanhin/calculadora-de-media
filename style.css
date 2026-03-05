@@ -1,31 +1,19 @@
-body{
-    display: 
+.container{
+    display: flex;
+    border: 1px solid #000000;
+    width: 320px;
+    height: 400px;
+    flex-direction: column;
+    margin: auto;
+    gap: 12px;
+    padding: 20pxs;
 }
-
-
-
-
-
-
 
 .caixa{
+    height: 40;
+}
+#button{
     height: 40px;
-    width: 120px;
-    background-color: #470b33;
+    background-color: #f8e6fa;
+    color: #D8BFD8;
 }
-
-.container {
-display: flex;
-border: 1px solid #000;
-width: 320px;
-height: 500px;
-flex-direction: column;
-background-color: #b653ae;
-
-
-
-
-}
-
-
-
